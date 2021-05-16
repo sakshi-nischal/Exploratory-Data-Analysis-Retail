@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-Retail
-To open the dashboard download Superstore.twb and open it in Tableau Desktop
+To open the dashboard download Superstore.twb and open it in Tableau Desktop.
 
 Here is the image of the dashboard created
 
